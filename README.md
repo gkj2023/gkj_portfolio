@@ -1,3 +1,5 @@
+# Gaurav Kumar Jha
+
 # EDUCATION
 
 University at Buffalo, The State University of New York (SUNY) Buffalo, NY <br>
