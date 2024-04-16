@@ -1,6 +1,6 @@
 # EDUCATION
 
-University at Buffalo, The State University of New York (SUNY) Buffalo, NY
+University at Buffalo, The State University of New York (SUNY) Buffalo, NY <br>
 MS in Data Science | GPA: 3.83 | Graduation date: December 2024
 
 # SKILLS
@@ -18,8 +18,7 @@ Handling Pressure, Collaboration, Strong communication, Good Team Player.
 
 # EXPERIENCE
 
-**ZS Associates | Business Technology Solutions Associate	| Haryana, India**
-**08/2021 – 07/2023**
+**ZS Associates | Business Technology Solutions Associate	| Haryana, India | 08/2021 – 07/2023**
 
 •	Managed day-to-day client deliverables for five sub-teams within the critical Business units of a Fortune 100 Pharmaceutical Client, ensuring 100% quality. <br>
 •	Leveraged expertise in historical data analysis to assist in forecasting Goals for each drug region-wise for each state in North America.<br>
@@ -29,8 +28,7 @@ Handling Pressure, Collaboration, Strong communication, Good Team Player.
 •	Managed end-to-end project delivery of a ~$2mn Pharmaceutical sales commercial operations analytics project for 3 therapeutic areas in the US region. <br>
 •	Led client interactions, requirement gathering, and cross-functional team management across Technology, Leadership & Operations stakeholders.<br>
 
-**ZoomRx Healthcare Technology Solutions | Business Analytics Associate	| Chennai, India**
-**12/2020 – 07/2021**
+**ZoomRx Healthcare Technology Solutions | Business Analytics Associate	| Chennai, India | 12/2020 – 07/2021**
 
 •	Successfully executed custom market research studies to gather data from desktop research, healthcare professionals, and reviewing clinical literature achieving a 20% increase in client satisfaction.<br>
 •	Contributed to the development and maintenance of dashboards, reports, and data visualizations by crafting strategic narratives for senior management, generating decks and Excel reports for client insights and market positioning, and performing weekly updates to Tableau dashboards following data refreshes.<br>
@@ -44,7 +42,7 @@ Handling Pressure, Collaboration, Strong communication, Good Team Player.
 
 # ACADEMIC PROJECTS
 
-**Advanced Predictive Modelling in Healthcare Data Analytics for Early Disease Detection**
+**[Advanced Predictive Modelling in Healthcare Data Analytics for Early Disease Detection](https://github.com/gkj2023/Data_Science_Portfolio/tree/main/Coronary_artery_disease_Rcode)**<br>
 
 •	Language: R | Data – heart_disease_uci (921x15)<br>
 •	Exploratory Data Analysis – Correlation Analysis, Null values check, outlier analysis<br>
@@ -52,7 +50,7 @@ Handling Pressure, Collaboration, Strong communication, Good Team Player.
 •	Machine learning – Data splitting for training (80:20), Random Forest, Logistic Regression, Decision tree, Data pruning, Data Imbalance check <br>
 •	Model accuracy check – RMSE, R-squared, Sensitivity. <br>
 
-**Bank Loan Approval Classification**
+**[Bank Loan Approval Classification](https://github.com/gkj2023/Data_Science_Portfolio/tree/main/Loan_prediction_python)**<br>
 •	Language: Python | Data mining, SMOTE, logistic regression, & random forest <br>
 •	Developed a predictive model for bank loan approval using machine learning techniques, focusing on inclusivity and fairness. <br>
 •	Utilized Python for data analysis, Pandas for data manipulation, and machine learning algorithms like Logistic Regression and Random Forest, enhanced with SMOTE analysis to address data imbalance.	
